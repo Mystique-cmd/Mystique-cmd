@@ -7,7 +7,7 @@
 - 👀 I’m interested in hands-on networking setups, troubleshooting system errors, and mastering Linux administration  
 - 🌱 I’m currently learning about router configurations, VPN encryption, debugging techniques, and programming fundamentals  
 - 💞️ I’m looking to collaborate on cybersecurity projects, sandbox simulations, and open-source tools for privacy and security  
-- 📫 How to reach me: [sampleoption4@gmail.com]  
+- 📫 How to reach me: [optionsample4@gmail.com]  
 - 😄 Pronouns: [He]  
 - ⚡ Fun fact: I believe in precision—whether it’s in subnetting or time calculations, every detail matters!  
 
