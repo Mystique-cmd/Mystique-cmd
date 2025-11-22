@@ -15,7 +15,7 @@
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat)
