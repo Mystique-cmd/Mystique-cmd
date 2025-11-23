@@ -4,11 +4,11 @@
 🔐 In the digital shadows 🌑 I move with precision 🎯, a sentinel of code 💻 and firewalls 🧱. I read the language of packets 📡 and patterns 🔎, turning chaos into clarity ✨. Obfuscation becomes my cloak 🕶️, steganography my whisper 🖼️, and every exploit a puzzle 🧩 to be unraveled. With a hacker’s eye 👁️ and a strategist’s mind 🧠, I guard integrity 🛡️ while exploring the hidden paths of cyberspace 🌐⚡.  
 
 ## 🔍 About Me  
-- 👀 I’m interested in hands-on networking setups, troubleshooting system errors, and mastering Linux administration  
-- 🌱 I’m currently learning about router configurations, VPN encryption, debugging techniques, and programming fundamentals  
+- 👀 I’m interested in anything CyberSecurity  
+- 🌱 I’m currently learning about Malware Development 
 - 💞️ I’m looking to collaborate on cybersecurity projects, sandbox simulations, and open-source tools for privacy and security  
-- 📫 How to reach me: [optionsample4@gmail.com]  
-- 😄 Pronouns: [He]  
+- 📫 How to reach me: [mystiquesoul777@gmail.com]
+- - 😄 Pronouns: [He]  
 - ⚡ Fun fact: I believe in precision—whether it’s in subnetting or time calculations, every detail matters!  
 
 <!--- Mystique-cmd/Mystique-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->  
