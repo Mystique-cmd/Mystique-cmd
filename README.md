@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning about Malware Development 
 - 💞️ I’m looking to collaborate on cybersecurity projects, sandbox simulations, and open-source tools for privacy and security  
 - 📫 How to reach me: [mystiquesoul777@gmail.com]
-- - 😄 Pronouns: [He]  
-- ⚡ Fun fact: I believe in precision—whether it’s in subnetting or time calculations, every detail matters!  
+- 😄 Tabs or Spaces? Tabs of course!
+- ⚡ Assembly is my mother tongue :) 
 
 <!--- Mystique-cmd/Mystique-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->  
 ## 🧰 Tech Stack
