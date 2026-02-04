@@ -1,7 +1,7 @@
 # Mystique-cmd
 
 👋 Hi, Mystique here !!
-🔐 In the digital shadows 🌑 I move with precision 🎯, a sentinel of code 💻 and firewalls 🧱. I read the language of packets 📡 and patterns 🔎, turning chaos into clarity ✨. Obfuscation becomes my cloak 🕶️, steganography my whisper 🖼️, and every exploit a puzzle 🧩 to be unraveled. With a hacker’s eye 👁️ and a strategist’s mind 🧠, I guard integrity 🛡️ while exploring the hidden paths of cyberspace 🌐⚡.  
+
 
 ## 🔍 About Me  
 - 👀 I’m interested in anything CyberSecurity  
